@@ -1,4 +1,4 @@
-const userModel=require('../db/models/user.model.js');
+const userModel=require('../models/user.model.js');
 
 
 
